@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/juancsucoder
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jcsucoder.github.io
+  * I am juancsucoder (https://keybase.io/juancsucoder) on keybase.
+  * I have a public key with fingerprint B12D CC33 14E9 C117 88AF  8BC0 AD29 1688 A6E8 CBEA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209235e0a899ce5204c901fa5726d657607c0669a3d68421b5192531b78cd14c800a",
+      "fingerprint": "b12dcc3314e9c11788af8bc0ad291688a6e8cbea",
+      "host": "keybase.io",
+      "key_id": "ad291688a6e8cbea",
+      "kid": "0101b20dfb70a7dc3571d33e2b05b8ecf2c28811b67227c8720ac308af31409baa9b0a",
+      "uid": "a563c9b53412a0993916a6f7ce873819",
+      "username": "juancsucoder"
+    },
+    "service": {
+      "hostname": "jcsucoder.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1607894943,
+  "expire_in": 157680000,
+  "prev": "bcfdc62cb0d1ce79153f7442498302de24ddc3b987a4ea18e13c3830405e3153",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNyAnicbZJ/UFRVFMd3CXDcSXDJoQJixkeCOBtz7/v9SGLRmhANl9AZJWt77767
+7APcXfZXEEtOZkL+mCjDkQgkQfrhMgkjSNNQuEEhNNVIMRNkDoEDgmMxWiGR9h7G
+f/11597zOd/zPefcvlX36Qz6ttTY6tbpoRn90IVmn846UnWygpCccjmRXkEU46UD
+l8jY47UWKzKRTgBIAoGkGAxEXhAQZkhAIwFAm8hwJCuzDMcCDgGWFURKZnmahBID
+BZKhoMTxSIY04gEQCRNhUxyF2O1yKw6vKitBUkaIoiCNBQQhx/OijZcQEGVSgKx6
+YzGPJKwl2p0eLUM1J4kenKY41Tf1Yl2y9z/8sm8AJRLINokDIicjiuGgTFGYlAAj
+8RjZSETyPIQSy5Ekh3iOBCKigGpD9QQESRQFacm3714dhqWQIDEUDUkRCAKlVhVZ
+G4cwz1E8FDTQg90OcS9W6SKf6EAeH3LK2E1Umgg14lcQ1oardbNMLSNphYrX7pPu
+teZyO71O5CxRAbvX6/KkawLecpeW8RKWrP9pWSXFIasjVTP82O1RnA4iHaok8iqa
+OFS3wgu0QFMmApe5FDe2KhqhrkvdBwBaHezXFoFsMmJJJAEZIswJkKFsHE2TtMBT
+gJQxScvq8CSB50Qai5DHkEKUGqIBgykVJrTuSh1OVVst5RULVU2PUugQvT43JipD
+F/aE6/QGXWREmPbXdIaVq5d/YE159F1zg/HUV7R7dbP+72+2d/AxZ7IfHLtt8WX9
+8PThrNdPn0/uzY43tFVv6DlB9VoWs65tM6zve0PfjUpPPrd50DSRGD+y8OlH85EX
+v6zseLuq8GFL+Lfxt8eOrO/5pwW/PN6VEdhvPGY8kCQf3Fu0adof6kl4LfrK+wdf
+sU0PTEx3fBfa/afy+K3BkoLeDn/5j5mfTaVdAo35tZa50MWaPfbyvBujZv8Bnu4r
++2t0cUV94NXrRgk+erozp9YxOnNpNiMqtmTY8NSuxGBE3tGwQE6rUf9swrq6D6eF
+0gELzguuCYtKujq5Y6pp4FzR1siwrStbrrTHPVDgir/2xM7DLW2Ls+/6bzbcHbna
+mDJuipkivA89tiqn0+h/sWq4syK5ZV9MYHN3c/07+ya+GEPxFthk3jVUVtOeeTxt
+YLbgUP/alCNlO82n7F3kW02+JOPvDVG5qW8WnbmzOGGe666bX/xgS8Inwebe924k
+b5n07866DF/wPE+Ybjb6fFRD/uf9z1S3bSwOTKX0J29obQuMmUtpPbwTHpeR357Y
+ZYxWfprRFd2ar4+b0e+v3JbWEX20H3wPjGtDm37xxRacDd+4Y3C8OeLn2suzXx8b
+XnH9fG6oUf4Np7c/ue7Xut7iR4o/nr2/Thw9l7s9GLSn+szGpvnjrs7ME38sRA0k
+1s31layZPJsYu5AEh4ns4L82ocSt
+=RZUF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/juancsucoder
+
+==================================================================
