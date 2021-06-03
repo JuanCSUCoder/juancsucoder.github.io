@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Juan Camilo Sánchez Urrego
 include:
   - ".well-known"
+  - "sitemap.xml"
