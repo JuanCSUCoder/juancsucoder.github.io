@@ -1,4 +1,4 @@
-# JCSUCoder Website 😀😄
+# JuanCSUCoder Website 😀😄
 
 ## Are you looking for SystemicWorks?
 [Click here](https://juancsucoder.github.io/SystemicWorks/) 👈 to go directly to SystemicWorks WebApp
