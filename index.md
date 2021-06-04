@@ -1,11 +1,11 @@
 # JCSUCoder Website 😀😄
 
 ## Are you looking for SystemicWorks?
-[Click here](https://jcsucoder.github.io/SystemicWorks/) 👈 to go directly to SystemicWorks WebApp
+[Click here](https://juancsucoder.github.io/SystemicWorks/) 👈 to go directly to SystemicWorks WebApp
 
 ## Juan Camilo Sánchez Urrego 🤵
 
-👉 [Github Profile](https://github.com/JCSUCoder), [Platzi Profile](https://platzi.com/@juancsucoder/) and [Keybase ID](https://keybase.io/juancsucoder/) 👈
+👉 [Github Profile](https://github.com/JuanCSUCoder), [Platzi Profile](https://platzi.com/@juancsucoder/) and [Keybase ID](https://keybase.io/juancsucoder/) 👈
 
 ### Skills
 
