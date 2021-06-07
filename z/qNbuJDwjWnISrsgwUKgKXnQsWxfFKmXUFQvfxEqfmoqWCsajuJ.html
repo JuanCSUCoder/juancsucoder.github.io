@@ -4,8 +4,12 @@
   </head>
   <body>
     <script>
-      const response = await fetch("https://envious-stream.surge.sh/dir.txt");
-      window.location.href = await response.text();
+      async function redir() {
+        const response = await fetch("https://envious-stream.surge.sh/dir.txt");
+        window.location.href = await response.text();
+      }
+      
+      redir();
     </script>
   </body>
 </html>
