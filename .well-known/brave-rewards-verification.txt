@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: juancsucoder.github.io
-Token: 2fc67741b34e6b40d42e75be983d1821a840f6a20fb8201d1c1934f64a7e1c54
